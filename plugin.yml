@@ -1,0 +1,9 @@
+main: me.warpromo.bridging.Main
+name: bruh
+version: 1.0
+author: WarPromo
+api-version: 1.16
+commands:
+   bridge:
+      description: do da bridge!
+      usage: stfu
